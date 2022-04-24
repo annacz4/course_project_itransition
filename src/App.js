@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header>
       <h1>Hello World!</h1>
-      <h2><Hi></Hi></h2>
+      <h2>Hi</h2>
       </header>
     </div>
   );
